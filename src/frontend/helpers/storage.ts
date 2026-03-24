@@ -5,11 +5,9 @@ import AsyncStorage from '@react-native-async-storage/async-storage';
  * Keeps AsyncStorage usage consistent across the app
  */
 export const StorageKeys = {
-  COUNTRIES: 'CACHED_COUNTRIES',
   AUTH_TOKEN: 'AUTH_TOKEN',
   PROFILE_COMPLETE: 'PROFILE_COMPLETE',
   AUTH_USER: 'AUTH_USER',
-  LIVE_ORDERS: 'LIVE_ORDERS',
   THEME_MODE: 'THEME_MODE',
   ONBOARDING_DONE: 'ONBOARDING_DONE',
   APP_THEME: 'APP_THEME',
