@@ -5,6 +5,7 @@ export const darkTheme = {
 
   colors: {
     /* ---------------- SCREEN ---------------- */
+    splashBackground: palette.primaryBase,
     background: palette.bgStrong, // main app background
     surface: '#121212', // elevated surface
     card: '#1A1A1A', // cards (slightly lifted)

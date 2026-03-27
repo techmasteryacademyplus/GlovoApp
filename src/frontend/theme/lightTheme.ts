@@ -5,6 +5,7 @@ export const lightTheme = {
 
   colors: {
     /* ---------------- SCREEN ---------------- */
+    splashBackground: palette.primaryBase,
     background: palette.bgWhite, // main clean background
     surface: '#FFFFFF', // full white surface
     card: '#FAFAFA', // subtle card separation
